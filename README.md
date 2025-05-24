@@ -24,3 +24,6 @@
 
 
 ### The goal isn't the bank application but more to actually visualize and understand which actions would cause these anomalies and how each level is introduced to solve them
+
+References:
+###### https://www.thecoder.cafe/p/exploring-database-isolation-levels
