@@ -1,0 +1,15 @@
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\bin\Debug\net8.0\Isolation.Application.deps.json
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\bin\Debug\net8.0\Isolation.Application.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\bin\Debug\net8.0\Isolation.Application.pdb
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\bin\Debug\net8.0\Isolation.Domain.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\bin\Debug\net8.0\Isolation.Domain.pdb
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.csproj.AssemblyReference.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.AssemblyInfoInputs.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.AssemblyInfo.cs
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.csproj.CoreCompileInputs.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolatio.A7C4D767.Up2Date
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\refint\Isolation.Application.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\Isolation.Application.pdb
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Application\obj\Debug\net8.0\ref\Isolation.Application.dll

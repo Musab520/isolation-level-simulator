@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hN/mkm+aOD8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MusabAbuasi\\RiderProjects\\IsolationLevelExercise\\Isolation.Domain\\Isolation.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MusabAbuasi\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

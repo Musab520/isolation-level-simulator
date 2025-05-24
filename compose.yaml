@@ -1,0 +1,6 @@
+﻿services:
+  isolation.api:
+    image: isolation.api
+    build:
+      context: .
+      dockerfile: Isolation.Api/Dockerfile

@@ -1,0 +1,12 @@
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\bin\Debug\net8.0\Isolation.Domain.deps.json
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\bin\Debug\net8.0\Isolation.Domain.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\bin\Debug\net8.0\Isolation.Domain.pdb
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.csproj.AssemblyReference.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.AssemblyInfoInputs.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.AssemblyInfo.cs
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\refint\Isolation.Domain.dll
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\Isolation.Domain.pdb
+C:\Users\MusabAbuasi\RiderProjects\IsolationLevelExercise\Isolation.Domain\obj\Debug\net8.0\ref\Isolation.Domain.dll
